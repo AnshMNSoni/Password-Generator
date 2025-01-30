@@ -1,22 +1,22 @@
 # Password-Generator
 
-### Language: Python
+### 👉 Language: Python
 
 ---
 
-### Library Used: Random
+### 👉 Library Used: Random
 
 --- 
 
-### Overview:
+### 👉 Overview:
 
-👉 You Just have to Enter the number of characters you want in your password + if you want to add numbers or symbols as well.
+🌐 You Just have to Enter the number of characters you want in your password + if you want to add numbers or symbols as well.
 
 ---
 
-### Visit:
+### 👉 Visit:
 
-👉 `LinkedIn` - [Visit](https://linkedin.com/in/anshmnsoni)
+🌐 `LinkedIn` - [Visit](https://linkedin.com/in/anshmnsoni)
 
 ---
 
