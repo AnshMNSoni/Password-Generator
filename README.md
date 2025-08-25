@@ -1,10 +1,13 @@
 # Password-Generator
 
+# Preview
+<img width="733" height="548" alt="image" src="https://github.com/user-attachments/assets/b9e9d01f-2b5b-47aa-a8ba-aeb6e1569ad1" />
+
 ### 👉 Language: Python
 
 ---
 
-### 👉 Library Used: Random
+### 👉 Library Used: Tkinter
 
 --- 
 
